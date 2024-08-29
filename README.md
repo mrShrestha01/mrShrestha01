@@ -15,9 +15,9 @@
 
 - 🌱 I’m currently learning **Html, CSS, JavaScript and Front-End development.**
 
-- 📫 How to reach me **shresthahim10@gmail.com**
+- 📫 You can reach me at: **shresthahim10@gmail.com**
 
-- ⚡ Fun fact **I am a learner who loves to read books.**
+- ⚡**I am a learner who loves to read books.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,3 +34,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrshrestha01&show_icons=true&locale=en" alt="mrshrestha01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshrestha01&" alt="mrshrestha01" /></p>
+
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+<h1 align='center'>⚡️<i>Stay energetic!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+  // I have a passion for learning anything related to IT sector. Specially I am involved in learning coding languages and developing my skills. In my free time, I love to read books.
