@@ -1,4 +1,4 @@
-
+![Logo](https://github.com/mrShrestha01/mrShrestha01/blob/main/coding%20banner.gif)
 <h1 align="center">  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Namaste+🙏;+Myself+Himanshu+Shrestha!;&center=true&size=28">
