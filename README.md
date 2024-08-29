@@ -11,13 +11,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **#100dayscodingchallenge**
+ 👋, I'm Himanshu Shrestha, a full-time 🎓 Learner, Football player ⚽ and 👨‍💻 coder from Nepal 🇳🇵.
+ 
+ 🔭 I’m currently working on **#100dayscodingchallenge**
 
-- 🌱 I’m currently learning **Html, CSS, JavaScript and Front-End development.**
+ 🌱 I’m currently learning **Html, CSS, JavaScript and Front-End development.**
 
-- 📫 You can reach me at: **shresthahim10@gmail.com**
+ ✉️ You can reach me at: **shresthahim10@gmail.com**
 
-- ⚡**I am a learner who loves to read books.**
+ ⚡**I am a learner who loves to read books.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
