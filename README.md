@@ -44,4 +44,4 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-  // I have a passion for learning anything related to IT sector. Specially I am involved in learning coding languages and developing my skills. In my free time, I love to read books.
+  I have a passion for learning anything related to IT sector. Specially I am involved in learning coding languages and developing my skills. In my free time, I love to read books.
